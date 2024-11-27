@@ -1,0 +1,22 @@
+{
+  "name": "nodejsapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoockScrollOn/API-REST.git"
+  },
+  "author": "Victor Baez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoockScrollOn/API-REST/issues"
+  },
+  "homepage": "https://github.com/LoockScrollOn/API-REST#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
